@@ -14,7 +14,7 @@ Each song which I have personally converted to .abc format has been broken down 
 ## Locating your song folder
 By default, your "songbook" will be located here:
 
-		C:\Users\pey10\AppData\Roaming\Vintagestory\abc
+		C:\Users\(YOUR_USERNAME_HERE)\AppData\Roaming\Vintagestory\abc
  
 If you get to your Vintagestory folder and the "abc" folder is not there, simply create one yourself and name it "abc".
 
