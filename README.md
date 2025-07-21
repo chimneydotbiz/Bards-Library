@@ -13,7 +13,9 @@ Each song which I have personally converted to .abc format has been broken down 
 	-Various Instruments: Tracks which are labeled with specific instruments such as Guitar, Violin, Trumpet, etc. are stem tracks which will likely sound incomplete without the other accompanying tracks. While it is possible to substitute them with different instruments, it will generally sound best if you use the corresponding instrument with each track!
 ## Locating your song folder
 By default, your "songbook" will be located here:
-	C:\Users\pey10\AppData\Roaming\Vintagestory\abc
+
+		C:\Users\pey10\AppData\Roaming\Vintagestory\abc
+ 
 If you get to your Vintagestory folder and the "abc" folder is not there, simply create one yourself and name it "abc".
 
 Now that you have located the folder, you are ready to move .abc files to it and start playing. It's as simple as that, really. You can create folders within the \abc folder to further organize your songbook.
