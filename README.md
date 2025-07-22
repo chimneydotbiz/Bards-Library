@@ -24,3 +24,5 @@ Now that you have located the folder, you are ready to move .abc files to it and
 
 Now that you have songs in your folder and you have fiddled around on an instrument, you are ready to go out and find other musicians and form a band. To do so, you will need to hold an instrument and right click. From here, you will put a name into the "Set Band Name" field, ensuring everyone you're playing with has the same band name. It is case sensitive! Once you select a song to play, it will create the band and other musicians can also select that song to start playing while it counts down. As long as one person is still playing, anybody can pick up right in the middle of a song.
 
+Note that if you are playing a song which is broken down into stems to be played by an ensemble, each member must pick their own individual part's file to play. Coordination is key to success, and good timing can make or break a performance! 
+
